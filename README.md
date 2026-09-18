@@ -14,8 +14,8 @@ Sistema que recibe consultas de clientes por Gmail, genera una primera respuesta
 
 ## Links
 
-- **Base de datos (solo lectura):(https://airtable.com/appgNhAuX2EmArSqP/tblKcFfgSiikBkd93/viw50wdeKqbE02ZQK)
-- **Dashboard de control (Shared View, KPIs y estado de consultas): (https://airtable.com/appgNhAuX2EmArSqP/shr3gy9FZORZrc5HV)
+- Base de datos (solo lectura):(https://airtable.com/appgNhAuX2EmArSqP/tblKcFfgSiikBkd93/viw50wdeKqbE02ZQK)
+- Dashboard de control (Shared View, KPIs y estado de consultas): (https://airtable.com/appgNhAuX2EmArSqP/shr3gy9FZORZrc5HV)
 ## Caso de uso
 
 Triage de consultas/reclamos de clientes por email: Gmail Trigger → AI Agent (Gemini + memoria por hilo) → aprobación humana (Send & Wait) → según la decisión, registro en Airtable o reformulación con AI Agent2 → envío final por Gmail.
